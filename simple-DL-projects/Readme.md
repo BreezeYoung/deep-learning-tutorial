@@ -3,5 +3,5 @@
 2. softmax regression
 3. multilayer perceptron
 
-# environment requirement
+# environment requisites
 see environment.yml
